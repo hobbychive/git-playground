@@ -1,1 +1,3 @@
-# git-playground
+# git-
+
+깃으로 놀아보자!
